@@ -1,0 +1,3 @@
+SHOW SCHEMAS;
+USE littlelemondb;
+SHOW TABLES;
