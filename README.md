@@ -1,2 +1,1 @@
-# db-capstone-project
-For Coursera "Database Engineer Capstone"
+Coursera: Meta Database Engineer - Capstone Project
